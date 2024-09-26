@@ -1,0 +1,9 @@
+
+[project]
+name = "app"
+version = "0.1.0"
+description = "Learn to build jaeger-client"
+requires-python = "~=3.9"
+dependencies = [
+    "jaeger-client==4.8.0",
+]
